@@ -1,37 +1,33 @@
-```ansi
-                                            haideraziz428@github
-        .:'                                 --------------------
-    __ :'__                                  OS.............: Windows 11, Android, Linux
- .'`__`-'__``.                               Uptime.........: 22 years, learning daily
-:__________.-'                               Host...........: Institute of Space Technology
-:_________:                                  Education......: B.S. Computer Science (2022 - 2026)
- :_________`-;                               Role...........: Full-Stack Web Developer
-  `.__.-.__.'
- 
-                                            ~ Languages ~
-     _nnnn_                                  Programming....: JavaScript, TypeScript, C#, Python, C++
-    dGGGGMMb                                 Markup & Style.: HTML, CSS, Tailwind
-   @p~qp~~qMb                                Real...........: English, Urdu
-   M|@||@) M|
-   @,----.JM|                              ~ Tech Stack ~
-  JS^\__/  qKL                              Frontend.......: React, Next.js, Tailwind CSS
- dZP        qKRb                            Backend........: Node.js, Express, NestJS, ASP.NET Core
-dZP          qKKb                           Database.......: PostgreSQL, MongoDB, SQL Server
-fZP            SMMb                          Tools..........: Git, GitHub, Vercel, Netlify
-HZM            MMMM
-FqM            MMMM                         ~ Currently ~
-__| ".        |\dS"qML                      Learning.......: ASP.NET Core, C#, .NET Ecosystem
-|    `.       | `' \Zq                      Building.......: Full-Stack .NET Applications
-_)      \.___.,|     .'                     Open to........: Junior Developer / Internship Roles
-\____   )MMMMMP|   .'
-     `-'       `--'                         ~ Contact ~
-                                            Email..........: haideraziz428@gmail.com
-                                            LinkedIn.......: Haidar Aziz
-                                            Portfolio......: haideraziz.netlify.app
-                                            GitHub.........: HaiderAziz428
 ```
- 
-<!-- ============ GITHUB STATS ============ -->
+++++=++::-=++=:.:::..::::::::::---:.....:--::::.   haideraziz428@github
+==--==-:.:-=-:.......::::::::::::....  .::..::..   --------------------
+:. .:-::..........:---::.......::....   .:----:-   OS.............: Windows 11, Android, Linux
+... ..:..      .:-#%@@%=:.......:.....   :-====#   Uptime.........: 22 years, learning daily
+......:...   .=+#%%%@@@@%%#+=-:......   .:----=-   Host...........: Institute of Space Technology
+   ...:::.   +@@@@@@@@@@@@@@@@%+:....   .:::::::   Education......: B.S. Computer Science (2022-2026)
+      ...::-+@@@@@@@@@@@@@@@@@@@+:...    ...::--   Role...........: Full-Stack Web Developer
+....   .-#@@@@@@@@@@@@@@@@@@@@@@@#=:  ..:------.   
+:::::::=@@@@@@@@%@@@%@@@@@%@@@@@@@@+...--==+-::.   ~ Languages ~
+@@@%%@@@@@@@@@@##%%+:-###++#@@@@@@@@%+-=++-=+=#%   Programming....: JavaScript, TypeScript, C#, Python
+@@@@@@@@@@@@@=---=+-:.-====+#%@@@@@@@@%%%#==#%@@   Markup & Style.: HTML, CSS, Tailwind
+@@@@@@@@@@@@%. .:--...:-:=--:-@@@@@@@@%%%#--=%@%   Real...........: English, Urdu
+@@@@@@@@@@%=+.     .  .:.   .:%%@@@%%%@@@+-==%%%   
+%%@%%%%@%%%:-..    ...--.  .:-+=%@@@@@%%%#=-%%%%   ~ Tech Stack ~
+%%@@@@@@@@@+=-....::=+##=-.-=+++@@@@@%%%%%##%%%%   Frontend.......: React, Next.js, Tailwind CSS
+%%%@@@@@@@@@@%=-.-:::--====#%@@@@@@@@%%%%%%%%%%%   Backend........: Node.js, Express, NestJS, ASP.NET Core
+++#%%@@@@@@@@@%+-. .:=-..=#@@@@@@@@@@%%%%%%%%%%%   Database.......: PostgreSQL, MongoDB, SQL Server
++#####%@@@@@@@#-++--=-=+%@@#=#%@@@@@%%%%%%%%%%%%   Tools..........: Git, GitHub, Vercel, Netlify
++##++#@@@@@@@=:..-+#%%@@%+=--:.%%%@@%%%%%%%%%%%%   
+%#++#%@@@@@%+ .:  ....:---:::. =%%###%%%%%%%%%%%   ~ Currently ~
+#++###%%%###= .:.. ...:-::...  =%%#####+#####%%%   Learning.......: ASP.NET Core, C#, .NET
+++#######++#+.  ... ...::.::  .+#########+++++##   Building.......: Full-Stack .NET Applications
+=+###########:..-=:-.:..:-+%#:-#%############+++   Open to........: Junior Developer / Internship
+#############+++%%#%+###%%%%%#+################+   
+###############=-############+##################   ~ Contact ~
+################:-##########++#############++#%%   Email..........: haideraziz428@gmail.com
+############++##+:+#########=##############+##@%   LinkedIn.......: Haidar Aziz
+                                                   Portfolio......: haideraziz.netlify.app
+```
  
 <div align="center">
 ![Haidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiderAziz428&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
@@ -40,10 +36,6 @@ _)      \.___.,|     .'                     Open to........: Junior Developer / 
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HaiderAziz428&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
  
-</div>
-<!-- ============ TECH BADGES ============ -->
- 
-<div align="center">
 ### Tech Stack
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,10 +50,6 @@ _)      \.___.,|     .'                     Open to........: Junior Developer / 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  
-</div>
-<!-- ============ CONNECT ============ -->
- 
-<div align="center">
 ### Connect with me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-aziz-1b4065266/)
