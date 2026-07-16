@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td valign="top">
+
 ```ascii
 @@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -31,47 +35,34 @@
                   *#+  -##%*#%##.       @@@ @                
                 @@+%%#=               #@@@@@@@               
 -              @@@+@%%%#=          =@@@@@@@@@@@              
-              @@@@*@@@@@%%%#*++++#@@@@@@@@@@@@@:             
-            #%@@@@@%@@@@@%%%@@%%@@@@@@@@@@@@@@@@       .-    
-:.       ==:.:@@@@@#%@@@@@%%%%%%@@@@@@@@@@@@@@@@          ..:
-      #+--=- =@@@@@@@@@@@@@@%#*+*%@@@@@@@@@@@@@#            .
-  =+=:+*#++=. @@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@=             
-     .:-***=: @@@@@@@@@@@@@@@%%@%%%@@@@%@@@@@@@+             
-       .-++==-.@@@@@@@@*@@@@@@%%%%@@@@@@  @@@@*+             
-+:       .:-==:@@@@@.  @@@ @@@%%%@@@@       @@+              
-+#*+=:....  ...+:           @*               =-              
-::-+=*+=----. ...-@@@                       *+:             .
-```
-**yourgithubusername**
+              @@@@*@@@@@%%%#*++++#@@@@@@@@@@@@@:
 
----
 
-**OS:** ...................... Windows 11, Linux, macOS  
-**Uptime:** .................. 25 years, 3 months, 12 days  
-**Host:** ..................... Custom Built PC  
-**Kernel:** ................... Latest  
-**IDE:** ...................... VS Code, IntelliJ
+HaiderAziz428
 
-**Languages.Programming:** ... Python, JavaScript, TypeScript, Java, Rust  
-**Languages.Computer:** ...... HTML, CSS, SQL, Bash, Markdown  
-**Languages.Real:** ........... English, Spanish
+OS: ...................... Windows 11, Linux, macOS
+Uptime: .................. 25 years, 3 months, 12 days
+Host: ..................... Custom Built PC
+Kernel: ................... Latest
+IDE: ...................... VS Code, IntelliJ IDEA
+Languages.Programming: ... Python, JavaScript, TypeScript, Java, Rust
+Languages.Computer: ...... HTML, CSS, SQL, Bash, Markdown, YAML
+Languages.Real: ........... English, Spanish
+Hobbies.Software: ......... Web Development, AI/ML, Game Modding
+Hobbies.Hardware: ......... PC Building, Raspberry Pi, Keyboards
+Contact
+Email.Personal: .......... you@example.com
+LinkedIn: ................ linkedin.com/in/yourprofile
+Discord: .................. yourdiscord
+GitHub: ................... HaiderAziz428
+GitHub Stats
+Repos: ................... 87 (Contributed: 124)
+Stars: ................... 456
+Commits: ................. 3,245
+Followers: ............... 278
 
-**Hobbies.Software:** ......... Web Dev, AI, Game Modding  
-**Hobbies.Hardware:** ......... PC Building, Raspberry Pi
+If your GitHub looks like this, that's awesome.
 
-**Contact**  
-**Email.Personal:** .......... you@example.com  
-**LinkedIn:** ................ linkedin.com/in/yourprofile  
-**Discord:** .................. yourdiscord  
-**GitHub:** ................... yourgithubusername
 
-**GitHub Stats**  
-**Repos:** ................... 87  
-**Stars:** ................... 456  
-**Commits:** ................. 3,245  
-**Followers:** ............... 278  
 
----
-
-> If your GitHub looks like this, that's awesome.
 ```
