@@ -1,3 +1,14 @@
+<!--
+  GITHUB PROFILE README
+  Setup:
+  1. Create a repo named EXACTLY: HaiderAziz428
+  2. Public + "Add a README file"
+  3. Replace README with everything below
+  4. Commit — appears on your profile automatically
+  NOTE: The ```ansi block below renders WITH COLORS on GitHub.
+  Keep it exactly as-is.
+-->
+ 
 ```ansi
 [1m[36mhaideraziz428@github[0m
 [37m--------------------[0m
