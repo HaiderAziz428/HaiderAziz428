@@ -34,3 +34,5 @@ X....................: @haideraziz428
 
 GitHub Stats
 ────────────
+<img src="https://github-readme-stats.vercel.app/api?username=HaiderAziz428&#x26;show_icons=true&#x26;theme=tokyonight&#x26;hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderAziz428&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true" alt="Top Languages">
